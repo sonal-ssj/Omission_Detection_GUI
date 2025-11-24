@@ -1,0 +1,45 @@
+name: vllm-modal-dev
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  
+  # PyTorch for macOS (CPU-only, no CUDA)
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  
+  # Development tools
+  - ipython
+  - jupyter
+  - pytest
+  - black
+  - ruff
+  
+  # Data processing
+  - pandas
+  - numpy
+  
+  # Pip dependencies
+  - pip:
+      # Modal CLI (for deployment to cloud)
+      - modal>=0.64.0
+      
+      # HuggingFace libraries (for data prep, not inference)
+      - transformers>=4.45.0
+      - tokenizers>=0.20.0
+      - huggingface-hub
+      - datasets
+      
+      # API client
+      - openai>=1.0.0
+      - requests
+      
+      # Utilities
+      - pydantic>=2.0.0
+      - python-dotenv
+      - tqdm
