@@ -125,7 +125,8 @@ python omission_gui.py
 medical-omission-detection/
 ├── modal_models.py          # Modal LLM deployment
 ├── omission_gui.py           # Gradio interface
-├── omission_grader.py        # Detection logic
+├── omission_grader.py        # Omission Detection 
+├── utilities.py              # Utils for Omission Detection
 ├── environment_modal.yml     # Modal environment
 ├── environment.yml           # Gradio environment
 └── example.env               # Environment template

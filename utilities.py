@@ -1,4 +1,5 @@
 """Utilities for asynchronous interaction with LLM APIs, including robust error handling and backoff."""
+# Author: Alexandra DeLucia
 from typing import Dict, Any, List, Union, Iterable
 import os
 import asyncio
