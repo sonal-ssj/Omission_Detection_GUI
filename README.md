@@ -151,7 +151,7 @@ medical-omission-detection/
 - Keep Modal app warm with regular requests
 
 ## How to cite
-If you use the MedExpert dataset or reference the related paper in your research, please cite the following work:
+If you use the MedExpert dataset https://huggingface.co/datasets/sonal-ssj/MedExpert or reference the related paper in your research, please cite the following work:
 
 ```
 @inproceedings{Yarmohammadi2025MedExpert,
