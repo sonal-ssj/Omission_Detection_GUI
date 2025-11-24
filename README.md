@@ -149,7 +149,7 @@ medical-omission-detection/
 - Start with 8B models for testing
 - Keep Modal app warm with regular requests
 
-** How to cite
+## How to cite
 If you use the MedExpert dataset or reference the related paper in your research, please cite the following work:
 
 ```
