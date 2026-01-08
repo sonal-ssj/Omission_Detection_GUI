@@ -25,7 +25,7 @@ Deploy multiple medical language models (Llama3-OpenBioLLM, BioMistral, Meditron
 ```bash
 # Clone repository
 git clone git@github.com:sonal-ssj/Omission_Detection_GUI.git
-cd medical-omission-detection
+cd Omission_Detection_GUI
 
 # Modal environment (for LLM deployment)
 conda env create -f environment_modal.yml
