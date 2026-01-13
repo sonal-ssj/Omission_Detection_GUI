@@ -9,6 +9,7 @@ End-to-end system for evaluating medical AI responses using Modal-hosted LLMs an
 
 Deploy multiple medical language models (Llama3-OpenBioLLM, BioMistral, Meditron) via Modal's serverless platform and analyze responses for clinical completeness using GPT-4o. Categorizes detected omissions by clinical harm level (Mild, Moderate, Severe, Life-threatening).
 
+<img width="933" height="1331" alt="image" src="https://github.com/user-attachments/assets/9e7066f5-d874-4a45-b8c0-407d6333068e" />
 
 ## ✅ Prerequisites
 
