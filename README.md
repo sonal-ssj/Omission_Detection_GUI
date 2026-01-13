@@ -3,6 +3,8 @@
 
 End-to-end system for evaluating medical AI responses using Modal-hosted LLMs and OpenAI-powered omission detection with an interactive Gradio interface.
 
+[Video Link to demo](https://drive.google.com/file/d/1RXc9_sezRHs5hCEev-rEl4s32gqZOaTO/view)
+
 ## 🎯 Overview
 
 Deploy multiple medical language models (Llama3-OpenBioLLM, BioMistral, Meditron) via Modal's serverless platform and analyze responses for clinical completeness using GPT-4o. Categorizes detected omissions by clinical harm level (Mild, Moderate, Severe, Life-threatening).
