@@ -140,11 +140,8 @@ medical-omission-detection/
 
 ## 📊 Available Models
 
-**Fast (8B/7B parameters):** Llama3-OpenBioLLM-8B, BioMistral-7B, Meditron-7B, Meta-Llama-3-8B-Instruct
-
-**Accurate (70B parameters):** Llama3-OpenBioLLM-70B, Meditron-70B, Meta-Llama-3-70B-Instruct
-
-**Other:** MedGemma-27B
+**Small (8B/7B parameters)**: Llama3-OpenBioLLM-8B, BioMistral-7B, Meditron-7B, Meta-Llama-3-8B-Instruct
+**Large (27/70B parameters)**: Llama3-OpenBioLLM-70B, Meditron-70B, Meta-Llama-3-70B-Instruct, MedGemma-27B
 
 ***
 
